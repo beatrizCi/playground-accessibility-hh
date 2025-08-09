@@ -1,3 +1,4 @@
+// src/App.tsx
 import { useEffect, useMemo, useState } from 'react'
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet'
 
